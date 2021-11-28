@@ -1,0 +1,18 @@
+<Transactions>
+	<Transaction id="Inv00001">
+		<TransactionDate>2021-01-23T9:49:19</TransactionDate>
+		<PaymentDetails>
+			<Amount>8900.00</Amount>
+			<CurrencyCode>USD</CurrencyCode>
+		</PaymentDetails>
+		<Status>Done</Status>
+	</Transaction>
+	<Transaction id="Inv00002">
+		<TransactionDate>2021-01-28T19:08:15</TransactionDate>
+		<PaymentDetails>
+			<Amount>45000.00</Amount>
+			<CurrencyCode>EUR</CurrencyCode>
+		</PaymentDetails>
+		<Status>Rejected</Status>
+	</Transaction>
+</Transactions>
